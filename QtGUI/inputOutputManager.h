@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 #ifndef INPUTOUTPUTMANAGER_H
 #define INPUTOUTPUTMANAGER_H
 

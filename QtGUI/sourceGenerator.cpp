@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 #include "sourceGenerator.h"
 
 SourceGenerator::SourceGenerator(SourceManager *_myManager, PlotLongitude *_myPlotLongitude, PlotLatitude *_myPlotLatitude, SpherePlot *_mySpherePlot)

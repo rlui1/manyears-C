@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 //Standard C includes
 #include <stdio.h>
 #include <stdlib.h>

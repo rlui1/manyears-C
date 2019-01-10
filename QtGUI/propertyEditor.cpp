@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 #include "propertyEditor.h"
 #include <limits.h>
 #include <QDebug>

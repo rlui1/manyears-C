@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 #ifndef GRAPH3D_H
 #define GRAPH3D_H
 

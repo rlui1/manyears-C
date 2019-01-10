@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 #include "graph2D.h"
 #include <math.h>
 #include "hardware.h"

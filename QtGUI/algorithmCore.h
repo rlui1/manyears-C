@@ -1,3 +1,4 @@
+/*Copyright (c) 2013-2018 Hanson Robotics, Ltd.*/
 #ifndef ALGORITHMCORE_H
 #define ALGORITHMCORE_H
 
